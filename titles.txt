@@ -1,0 +1,142 @@
+Array.prototype.includes
+Exponentiation operator
+Object.values
+Object.entries
+String padding
+Object.getOwnPropertyDescriptors
+Trailing commas in function parameter lists and calls
+Async functions
+Shared memory and atomics
+Lifting template literal restriction
+s (dotAll) flag for regular expressions
+RegExp named capture groups
+Rest/Spread Properties
+RegExp Lookbehind Assertions
+RegExp Unicode Property Escapes
+Promise.prototype.finally
+Asynchronous Iteration
+Optional catch binding
+JSON superset
+Symbol.prototype.description
+Function.prototype.toString revision
+Object.fromEntries
+Well-formed JSON.stringify
+String.prototype.{trimStart,trimEnd}
+Array.prototype.{flat,flatMap}
+String.prototype.matchAll
+import()
+globalThis
+Legacy RegExp features in JavaScript
+BigInt
+import.meta
+Private instance methods and accessors
+Class Public Instance Fields & Private Instance Fields
+Static class fields and private static methods
+Hashbang Grammar
+Promise.allSettled
+Numeric separators
+Top-level await
+WeakRefs
+function.sent metaproperty
+Decorators
+throw expressions
+Atomics.waitAsync
+Function implementation hiding
+New Set methods
+Realms
+ArrayBuffer.prototype.transfer
+RegExp Match array offsets
+Sequence properties in Unicode property escapes
+Temporal
+collection normalization
+String.prototype.replaceAll
+for-in mechanics
+Array.isTemplateObject
+Optional Chaining
+Nullish coalescing Operator
+export v from "mod"; statements
+Observable
+Frozen Realms
+Math Extensions
+of and from on collection constructors
+Generator arrow functions (=>*)
+Promise.try
+Math.signbit: IEEE-754 sign bit
+Error stacks
+do expressions
+Float16 on TypedArrays, DataView, Math.hfround
+Change Number.parseInt/parseFloat to not coerce null/undefined/NaN (repo link TBD)
+Binary AST
+Pipeline Operator
+Extensible numeric literals
+First-class protocols
+Partial application
+Cancellation API
+String.prototype.codePoints
+Object.freeze + Object.seal syntax
+Block Params
+{BigInt,Number}.fromString
+Math.seededRandoms()
+Maximally minimal mixins
+Getting last element of Array
+Collection methods
+Richer Keys
+Slice notation
+Logical Assignment Operators
+Module Keys
+Class Static Block
+class Access Expressions
+Pattern Matching
+Explicit Resource Management
+Dynamic Modules
+JavaScript Standard Library
+"use module"
+uniform parsing of quasi-standard Date.parse input
+JSON.parse source text access
+IDL for ECMAScript
+Asset References
+Freezing prototypes
+new.initialize
+Iterator helpers
+Promise.any
+Private declarations
+Emitter
+Dynamic Code Brand Checks
+Additional metaproperties
+Annex B — HTML Attribute Event Handlers
+Defensible Classes
+Function bind syntax
+Function expression decorators
+Method parameter decorators
+Nested import declarations
+Normative ICU Reference
+Orthogonal Classes
+Reflect.{isCallable,isConstructor}
+Relationships
+String.prototype.at
+Structured Clone
+WHATWG URL
+Zones (spec)
+Object Shorthand Improvements
+Decimal
+deprecated
+as destructuring patterns
+Symbol.thenable
+Dynamic Import Host Adjustment
+RegExp.escape
+Callable class constructors
+Error.isError
+{Set,Map}.prototype.toJSON
+Typed Objects
+Object enumerables
+Cancelable Promises
+Proposed Grammar change to ES Modules
+Dynamic Module Reform
+SIMD.JS - SIMD APIs
+Updates to Tail Calls to include an explicit syntactic opt-in
+Object.shallowEqual
+%constructor%.construct
+Builtins.typeOf() and Builtins.is()
+Tagged Collection Literals
+Date.parse fallback semantics
+Distinguishing literal strings
